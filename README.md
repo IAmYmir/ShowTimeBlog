@@ -1,2 +1,2 @@
 # ShowTimeBlog
-A Personal Blog Project Created By Ymir
+A Personal Blog Project Created By Ymir。
